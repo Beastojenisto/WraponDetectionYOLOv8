@@ -1,0 +1,14 @@
+names:
+- Gun
+- Guns
+- Handgun
+nc: 3
+roboflow:
+  license: CC BY 4.0
+  project: weapon-detection-mhdza
+  url: https://universe.roboflow.com/fypit2/weapon-detection-mhdza/dataset/2
+  version: 2
+  workspace: fypit2
+test: ../test/images
+train: Weapon-Detection-2/train/images
+val: Weapon-Detection-2/valid/images
